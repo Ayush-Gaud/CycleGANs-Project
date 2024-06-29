@@ -1,1 +1,1 @@
-NOTE: please scroll down till the very end in assgn6 Q1 file to view the conditioned gan output
+NOTE: please scroll down till the very end in both assgn6 Q1 and Q2 files to view the required conditioned/pix2pix gan output
